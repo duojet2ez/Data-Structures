@@ -1,2 +1,2 @@
 # Data-Structures
-Implementations of Data Structures and sorting algorithms
+Implementations of data structures and sorting algorithms
